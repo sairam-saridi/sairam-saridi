@@ -21,14 +21,6 @@ Passionate about building responsive web experiences with HTML/CSS. Learning Jav
 
 ## 📁 My Projects
 
-### WordSage
-[![WordSage](https://img.shields.io/badge/WordSage-React%20Native-brightgreen)](https://github.com/sairam-saridi/WordSage)
-> Personalized English vocabulary learning app built with React Native + NestJS
-
-### Tap Duel
-[![Tap Duel](https://img.shields.io/badge/Tap%20Duel-Game-blue)](https://github.com/sairam-saridi/TapDuel)
-> Fast-paced mobile tapping game with competitive scoring
-
 ### Responsive Web Design Portfolio
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-green)](https://sairam-saridi-rwd-cert.netlify.app/)
 > freeCodeCamp certified responsive projects showcase
